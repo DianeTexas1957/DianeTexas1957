@@ -2936,14 +2936,14 @@ label {
 
 @font-face {
   font-family: 'Saol Display';
-  src: url('../fonts/640799ab1fa19c5a2636cc79_SaolDisplay-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/DianeTexas1957/DianeTexas1957@main/site-01/fonts/SaolDisplay-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Satoshi variable';
-  src: url('../fonts/640799c86f9461908b8e3f90_Satoshi-Variable.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/DianeTexas1957/DianeTexas1957@main/site-01/fonts/Satoshi-Variable.ttf') format('truetype');
   font-weight: 300 900;
   font-style: normal;
   font-display: swap;
